@@ -27,7 +27,6 @@ export default function Login2() {
             <p>Not a member? Sign Up now</p>
         </form>
       </div>
-
     </div>
   )
 }

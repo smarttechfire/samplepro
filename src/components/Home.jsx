@@ -1,9 +1,12 @@
+import Login4 from "./Login4/Login4"
+
+
 
 
 const Home = () => {
-  return (
-    <div className="h-screen">
-      Home
+  return /* @__PURE__ */ (
+    <div className="h-screen" style={{marginTop: "60px"}}>
+      <Login4 />
     </div>
   )
 }
